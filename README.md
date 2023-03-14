@@ -1,2 +1,2 @@
-My first readme
+IM BETTER CODER
 # alx-pre_course
